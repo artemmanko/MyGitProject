@@ -1,0 +1,3 @@
+[remote "upstream"]
+	url = https://gitlab.basealt.space/alt/edu/ExampleFirstProject.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

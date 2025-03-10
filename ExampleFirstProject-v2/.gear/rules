@@ -1,0 +1,4 @@
+tar: v@version@:HelloUniverse/
+spec: .gear/HelloUniverse.spec
+diff: v@version@:HelloUniverse/ .:HelloUniverse/ exclude=.gear/**
+copy?: .gear/*.patch
